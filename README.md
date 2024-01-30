@@ -238,7 +238,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Agung Sidik Muhamad - [@agungksidik](https://twitter.com/agungksidik) - agungksidik@gmail.com
+Agung Sidik Muhamad - [@hcbsaab](https://twitter.com/hcbsaab) - mianhaseeb41@gmail.com
 
 Project Link: [https://github.com/m-hcb/laravel-inertiajs-reactjs-starter](https://github.com/m-hcb/laravel-inertiajs-reactjs-starter)
 
